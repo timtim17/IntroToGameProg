@@ -66,5 +66,5 @@ while True:
             break
     except ValueError: print "Nope, it has to be a year (that's 4 numbers)."
 
-print firstName + lastName + " was born on " + str(birthMonth) + "/" + str(birthDay) + "/" + str(birthYear)
+print firstName + " " + lastName + " was born on " + str(birthMonth) + "/" + str(birthDay) + "/" + str(birthYear)
 print
