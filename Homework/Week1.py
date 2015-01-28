@@ -36,15 +36,19 @@ print "********** Exercise 1.4 Part III **********"
 problemA = (5 + 2)/3
 problemB = 5 + 2/3
 
-print "Problem A: ((5 + 2)/3): Solution: " + str(problemA)
-print "Problem B (5 + 2/3): Solution: " + str(problemB)
+print "Problem A: ((5 + 2)/3) Solution: " + str(problemA)
+print "Problem B: (5 + 2/3): Solution: " + str(problemB)
 print
 
 print "********** Exercise 1.5 **********"
 print
-firstName = raw_input("What is your first name? ==> ")
-lastName = raw_input("What is your last name? ==> ")
-
+while True:
+    firstName = raw_input("What is your first name? ==> ")
+    if not firstName == "": break
+while True:
+    lastName = raw_input("What is your last name? ==> ")
+    if not lastName == "": break
+print
 print "Enter your date of birth:"
 while True:
     try:
