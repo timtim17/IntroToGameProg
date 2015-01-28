@@ -27,6 +27,7 @@ print str(solution3)
 print
 solution4 = (-19 + 100) ** (1/4)
 print str(solution4)
+print
 solution5 = 6 % 4
 print str(solution5)
 print
@@ -65,5 +66,5 @@ while True:
             break
     except ValueError: print "Nope, it has to be a year (that's 4 numbers)."
 
-print firstName + lastName + " was born on " + birthMonth + "/" + birthDay + "/" + birthYear
+print firstName + lastName + " was born on " + str(birthMonth) + "/" + str(birthDay) + "/" + str(birthYear)
 print
