@@ -3,6 +3,8 @@
 
 > A repository for the code used in my _Intro to Game Programming_ at **_Eastlake High School_**
 
+The textbook for the class can be found [here](http://www.greenteapress.com/thinkpython/thinkCSpy.pdf).
+
 <img alt="Eastlake Logo - Go Wolves!" title="Eastlake Logo - Go Wolves!" src="http://www.lwsd.org/school/EHS/SiteCollectionImages/Eastlake%20Wolf%20Logo%20Converted.jpg" width="200" height="200" />
 
 File Structure
