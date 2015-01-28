@@ -72,3 +72,5 @@ while True:
 
 print firstName + " " + lastName + " was born on " + str(birthMonth) + "/" + str(birthDay) + "/" + str(birthYear)
 print
+
+# Homework Assignment: http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/assignments/MIT6_189IAP11_hw1.pdf
