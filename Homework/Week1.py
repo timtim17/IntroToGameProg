@@ -61,7 +61,7 @@ while True:
     try:
         birthYear = raw_input("    Year? ==> ")
         int(birthYear)  # Test to see if it actually is a number, not just four random things
-        if birthYear.length == 4:
+        if len(birthYear) == 4:
             break
     except ValueError: print "Nope, it has to be a year (that's 4 numbers)."
 
