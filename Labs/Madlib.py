@@ -1,3 +1,9 @@
+# Austin Jenchi
+# 01/27/2015
+# Intro to Game Programming
+# 8th Period
+# MadLib
+
 name = raw_input("Gimme a name! ==> ")
 adj = raw_input("Gimme a adjective! ==> ")
 noun = raw_input("Gimme a noun! ==> ")
