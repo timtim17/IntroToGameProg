@@ -38,7 +38,7 @@ Credits
 - **_Portable Python_** ![v2.7.6.1](http://img.shields.io/badge/version-2.7.6.1-blue.svg?style=flat)
 	- [Website](http://portablepython.com/wiki/Download/)
 	- Portable version of Python with PyGame bundled.
-- **_PyCharm_** ![Educational Editon v1.01](http://img.shields.io/badge/version-Educational_Edition_1.01-blue.svg?style=flat)
+- **_PyCharm_** ![Educational Editon v1.0.1](http://img.shields.io/badge/version-Educational_Edition_1.0.1-blue.svg?style=flat)
 	- [Website](https://www.jetbrains.com/pycharm-educational/)
 	- My prefered Python IDE
 - Badges from [here](http://shields.io/).
