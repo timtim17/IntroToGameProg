@@ -22,6 +22,12 @@ Weekly Homework. The URL to the assignment is useally found at the bottom.
 ### `\Templates\`
 Reusable templates for things like Pygame.
 
+How to Install
+--------------
+> Alternate Title: Tell Me How to Install this Like I'm a Freshman in High School
+
+**_to be written_**
+
 License
 -------
 
