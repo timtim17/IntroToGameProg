@@ -24,7 +24,7 @@ Reusable templates for things like Pygame.
 
 How to Install
 --------------
-> Alternate Title: Tell Me How to Install this Like I'm a Freshman in High School
+> Alternate Title: Tell Me How to Install this Like I'm a Freshman in High School :smiley:
 
 1. Install [Python](https://www.python.org/ftp/python/2.7.9/python-2.7.9.msi)
 2. Install [Pygame](http://pygame.org/download.shtml)
