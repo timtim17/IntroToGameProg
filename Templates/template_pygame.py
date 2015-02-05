@@ -33,13 +33,17 @@ while not DONE:
         if type == QUIT:
             DONE = True
         elif type == KEYDOWN:
-            if event.key == 292:    # F11
+            if event.key == 292:  # F11
                 if not FULLSCREEN:
-                    screen = pygame.display.set_mode((monitor.winfo_screenwidth(), monitor.winfo_screenheight()), pygame.FULLSCREEN)
+                    screen = pygame.display.set_mode((monitor.winfo_screenwidth(), monitor.winfo_screenheight()),
+                                                     pygame.FULLSCREEN)
                     FULLSCREEN = True
                 else:
                     SCREEN = pygame.display.set_mode(SIZE, pygame.RESIZABLE)
                     FULLSCREEN = False
+            elif event.key == 27:
+                SCREEN = pygame.display.set_mode(SIZE, pygame.RESIZABLE)
+                FULLSCREEN = False
 
     CLOCK.tick(60)
 

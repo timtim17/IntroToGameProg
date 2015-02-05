@@ -40,6 +40,9 @@ htmlcov/
 nosetests.xml
 coverage.xml
 
+*secret*
+*.storage
+
 # Translations
 *.mo
 *.pot
@@ -52,3 +55,6 @@ docs/_build/
 
 # PyBuilder
 target/
+
+*secret*
+.storage
