@@ -109,4 +109,4 @@ elif p1choice == 2:
         print "None shall win, so none shall pass.\nThis duel shall be forever be known as a TIE."
 print
 
-# Homework Assignment: <N/A>
+# Homework Assignment: https://github.com/timtim17/IntroToGameProg/raw/master/Homework/Homework%202.docx
