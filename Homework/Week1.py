@@ -15,16 +15,16 @@ print
 print "********** Exercise 1.4 Part II **********"
 print
 import math
-solution1 = (3 * 5)/(2+3)
+solution1 = (3 * 5)/(2 + 3)
 print str(solution1)
 print
 solution2 = math.sqrt(7 + 9) * 2
 print str(solution2)
 print
-solution3 = math.pow(4 - 7, 3)
+solution3 = (4 - 7) ** 3
 print str(solution3)
 print
-solution4 = (-19 + 100) ** (1/4)
+solution4 = (-19 + 100) ** (1.0/4.0)
 print str(solution4)
 print
 solution5 = 6 % 4
