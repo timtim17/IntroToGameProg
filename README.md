@@ -1,4 +1,4 @@
-<img src="http://icons.iconarchive.com/icons/cornmanthe3rd/plex/128/Other-python-icon.png" height="25" />Intro to Game Programming ![](http://progressed.io/bar/1?title=class+progress)&nbsp;![](http://img.shields.io/badge/year-freshman-red.svg?style=flat)
+<img src="http://icons.iconarchive.com/icons/cornmanthe3rd/plex/128/Other-python-icon.png" height="25" />Intro to Game Programming ![](http://progressed.io/bar/10?title=class+progress)&nbsp;![](http://img.shields.io/badge/year-freshman-red.svg?style=flat)
 ====
 
 > A repository for the code used in my _Intro to Game Programming_ at **_Eastlake High School_**
@@ -21,6 +21,16 @@ Weekly Homework. The URL to the assignment is useally found at the bottom.
 
 ### `\Templates\`
 Reusable templates for things like Pygame.
+
+How to Install
+--------------
+> Alternate Title: Tell Me How to Install this Like I'm a Freshman in High School :smiley:
+
+1. Install [Python](https://www.python.org/ftp/python/2.7.9/python-2.7.9.msi)
+2. Install [Pygame](http://pygame.org/download.shtml)
+3. Download this repo with the download as zip button on the right.
+4. Right click the desired `.py` file and select _"Edit with IDLE"_
+5. Hit F5
 
 License
 -------

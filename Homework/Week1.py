@@ -36,7 +36,7 @@ problemA = (5 + 2)/3
 problemB = 5 + 2/3
 
 print "Problem A: ((5 + 2)/3) Solution: " + str(problemA)
-print "Problem B: (5 + 2/3): Solution: " + str(problemB)
+print "Problem B: (5 + 2/3) Solution: " + str(problemB)
 print
 
 print "********** Exercise 1.5 **********"
