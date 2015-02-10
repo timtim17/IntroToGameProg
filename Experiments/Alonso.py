@@ -23,11 +23,7 @@ SYSFONT = pygame.font.Font(None, 48)
 COMICSANS = pygame.font.SysFont("Comic Sans MS", 25, True, False)
 
 # MUSIC
-try:
-    pygame.mixer.music.load("Who Likes to Party.mp3")
-    pass
-except:
-    assert UserWarning, "Error Loading Music"
+pygame.mixer.music.load("Who Likes to Party.mp3")
 
 # WINDOW
 DONE = False
@@ -44,7 +40,7 @@ monitor = getScreen()
 angle = 0
 flip = False
 
-pygame.mixer.music.play(-1)
+# pygame.mixer.music.play(-1)
 
 while not DONE:
     SCREEN.fill(WHITE)
