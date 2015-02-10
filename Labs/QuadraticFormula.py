@@ -1,3 +1,10 @@
+# Austin Jenchi
+# 02/10/2015
+# 8th Period
+# Quadratic Formula
+
+print "NOTE: IN PYTHON, j IS THE IMAGINARY CONSTANT i."
+
 def quadraticFormula(a, b, c):
     from cmath import sqrt
     numberSq = sqrt(b ** 2 - 4 * a * c)
