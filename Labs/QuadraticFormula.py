@@ -13,3 +13,6 @@ print "The solution set is: {" + str(answers[0]) + ", " + str(answers[1]) + "}"
 
 answers = quadraticFormula(1, 1, 500)
 print "The solution set is: {" + str(answers[0]) + ", " + str(answers[1]) + "}"
+
+answers = quadraticFormula(1, 0, 500)
+print "The solution set is: {" + str(answers[0]) + ", " + str(answers[1]) + "}"
