@@ -1,11 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0998c611-e120-4086-a1e5-a4dcf37186fa" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Labs/QuadraticFormula.py" afterPath="$PROJECT_DIR$/Labs/QuadraticFormula.py" />
+    <list default="true" id="0998c611-e120-4086-a1e5-a4dcf37186fa" name="Default" comment="Add heading">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Homework/Homework 4.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/CHEYV_000.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Labs/Functions.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Homework/Week4.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/IntroToGameProgramming.iml" afterPath="$PROJECT_DIR$/.idea/IntroToGameProgramming.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="36942539-5436-4164-8182-c585899e21fa" name="Gmail" comment="Files for my experiments with the Gmail API." />
+    <list id="aeee9f43-e630-4642-9669-7013a58f5281" name="WIP" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Experiments/Mario Theme.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Experiments/chrome.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Experiments/mario1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Experiments/mario2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Experiments/mario3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Experiments/SaveData.py" />
+    </list>
+    <list id="50d7ac0d-56d7-4bd9-bfa8-0e3ccff50a37" name="Week 3" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Homework/deadly neurotoxin.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Homework/testing will begin.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Homework/wakeup.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Homework/you have been in suspension.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Homework/Week3.py" />
+    </list>
     <ignored path="IntroToGameProgramming.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,21 +51,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="QuadraticFormula.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Labs/QuadraticFormula.py">
+      <file leaf-file-name="Week4.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Homework/Week4.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.32872927" vertical-offset="0" max-vertical-offset="527">
-              <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="8976">
+              <caret line="115" column="5" selection-start-line="115" selection-start-column="5" selection-end-line="115" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Week3.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Homework/Week3.py">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4828">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.5690377" vertical-offset="0" max-vertical-offset="1275">
+              <caret line="19" column="53" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
               <folding />
             </state>
           </provider>
@@ -84,14 +107,21 @@
         <option value="$PROJECT_DIR$/Labs/ChooseYourOwnAdventure.py" />
         <option value="$PROJECT_DIR$/Experiments/Alonso.py" />
         <option value="$PROJECT_DIR$/Labs/QuadraticFormula.py" />
+        <option value="$PROJECT_DIR$/Experiments/SaveData.py" />
+        <option value="$PROJECT_DIR$/hardwork.py" />
+        <option value="$PROJECT_DIR$/Labs/Functions.py" />
+        <option value="$PROJECT_DIR$/Homework/Homework 4.py" />
+        <option value="$PROJECT_DIR$/Homework/Week 4.py" />
+        <option value="$PROJECT_DIR$/Homework/Week4.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-4" />
-    <option name="y" value="-4" />
-    <option name="width" value="1608" />
-    <option name="height" value="864" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1616" />
+    <option name="height" value="876" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -135,20 +165,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="IntroToGameProgramming" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="IntroToGameProgramming" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Homework" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -157,7 +173,7 @@
     <property name="options.lastSelected" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Labs/QuadraticFormula.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Homework/Week 4.py" />
     <property name="recentsLimit" value="5" />
     <property name="restartRequiresConfirmation" value="true" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="73" />
@@ -195,7 +211,7 @@
       <recent name="P:\Projects\IntroToGameProgramming\Labs" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Quadratic Formula">
+  <component name="RunManager" selected="Python.Week 4">
     <configuration default="true" type="tests" factoryName="py.test">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -316,6 +332,25 @@
       <option name="TEST_TYPE" value="TEST_SCRIPT" />
       <option name="PATTERN" value="" />
       <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Functions" type="PythonConfigurationType" factoryName="Python" folderName="Labs">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Labs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="IntroToGameProgramming" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Labs/Functions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
     <configuration default="false" name="Choose Your Own Adventure" type="PythonConfigurationType" factoryName="Python" folderName="Labs">
@@ -527,6 +562,63 @@
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
+    <configuration default="false" name="SaveData" type="PythonConfigurationType" factoryName="Python" folderName="Labs">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Experiments" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="IntroToGameProgramming" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Experiments/SaveData.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Week 3" type="PythonConfigurationType" factoryName="Python" folderName="Homework">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homework" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="IntroToGameProgramming" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homework/Week3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Week 4" type="PythonConfigurationType" factoryName="Python" folderName="Homework">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homework" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="IntroToGameProgramming" />
+      <option name="SCRIPT_NAME" value="P:\Projects\IntroToGameProgramming\Homework\Week4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
     <configuration default="false" name="Week 1" type="PythonConfigurationType" factoryName="Python" folderName="Homework">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -685,26 +777,30 @@
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <list size="19">
-      <item index="0" class="java.lang.String" itemvalue="Python.Choose Your Own Adventure" />
-      <item index="1" class="java.lang.String" itemvalue="Python.GPA" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Gameshow" />
-      <item index="3" class="java.lang.String" itemvalue="Python.IfElse" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Paycheck" />
-      <item index="5" class="java.lang.String" itemvalue="Python.Madlib" />
-      <item index="6" class="java.lang.String" itemvalue="Python.TipCalc" />
-      <item index="7" class="java.lang.String" itemvalue="Python.Triangles" />
-      <item index="8" class="java.lang.String" itemvalue="Python.Fixing Errors" />
-      <item index="9" class="java.lang.String" itemvalue="Python.Escape Art" />
-      <item index="10" class="java.lang.String" itemvalue="Python.Quadratic Formula" />
-      <item index="11" class="java.lang.String" itemvalue="Python.Week 1" />
-      <item index="12" class="java.lang.String" itemvalue="Python.Week 2" />
-      <item index="13" class="java.lang.String" itemvalue="Python.Splash Screen" />
-      <item index="14" class="java.lang.String" itemvalue="Python.Animation Test" />
-      <item index="15" class="java.lang.String" itemvalue="Python.Gmail" />
-      <item index="16" class="java.lang.String" itemvalue="Python.Bank" />
-      <item index="17" class="java.lang.String" itemvalue="Python.Alonso" />
-      <item index="18" class="java.lang.String" itemvalue="Python.Random Number" />
+    <list size="23">
+      <item index="0" class="java.lang.String" itemvalue="Python.Functions" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Choose Your Own Adventure" />
+      <item index="2" class="java.lang.String" itemvalue="Python.GPA" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Gameshow" />
+      <item index="4" class="java.lang.String" itemvalue="Python.IfElse" />
+      <item index="5" class="java.lang.String" itemvalue="Python.Paycheck" />
+      <item index="6" class="java.lang.String" itemvalue="Python.Madlib" />
+      <item index="7" class="java.lang.String" itemvalue="Python.TipCalc" />
+      <item index="8" class="java.lang.String" itemvalue="Python.Triangles" />
+      <item index="9" class="java.lang.String" itemvalue="Python.Fixing Errors" />
+      <item index="10" class="java.lang.String" itemvalue="Python.Escape Art" />
+      <item index="11" class="java.lang.String" itemvalue="Python.Quadratic Formula" />
+      <item index="12" class="java.lang.String" itemvalue="Python.SaveData" />
+      <item index="13" class="java.lang.String" itemvalue="Python.Week 3" />
+      <item index="14" class="java.lang.String" itemvalue="Python.Week 4" />
+      <item index="15" class="java.lang.String" itemvalue="Python.Week 1" />
+      <item index="16" class="java.lang.String" itemvalue="Python.Week 2" />
+      <item index="17" class="java.lang.String" itemvalue="Python.Splash Screen" />
+      <item index="18" class="java.lang.String" itemvalue="Python.Animation Test" />
+      <item index="19" class="java.lang.String" itemvalue="Python.Gmail" />
+      <item index="20" class="java.lang.String" itemvalue="Python.Bank" />
+      <item index="21" class="java.lang.String" itemvalue="Python.Alonso" />
+      <item index="22" class="java.lang.String" itemvalue="Python.Random Number" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -712,21 +808,21 @@
     <configuration>C:\Users\s-ajenchi\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="-4" width="1608" height="864" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="false" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3275401" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5077022" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.5070694" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18292683" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39839572" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.42555556" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.48128343" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39010283" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39731544" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.7275168" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.66174495" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33440307" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3275401" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -737,8 +833,8 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5077022" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39839572" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33440307" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3275401" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -747,10 +843,10 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18292683" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.42555556" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.6684492" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.5762032" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.48222223" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -781,36 +877,24 @@
     <MESSAGE value="Week 2" />
     <MESSAGE value="Quadratic Formula + Other Changes" />
     <MESSAGE value="Add a test to quadratic formula" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add a test to quadratic formula" />
+    <MESSAGE value="Add heading" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add heading" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="26" />
+      <option name="time" value="28" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Labs/IfElse.py">
+    <entry file="file://$PROJECT_DIR$/Homework/Week1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="748" max-vertical-offset="850">
-          <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Labs/Paycheck.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="527">
-          <caret line="24" column="131" selection-start-line="24" selection-start-column="131" selection-end-line="24" selection-end-column="131" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Experiments/Gmail.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="850">
-          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="1207" max-vertical-offset="1377">
+          <caret line="71" column="113" selection-start-line="70" selection-start-column="0" selection-end-line="71" selection-end-column="113" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1108,13 +1192,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Homework/Week1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4238227" vertical-offset="442" max-vertical-offset="1394">
-          <caret line="44" column="20" selection-start-line="44" selection-start-column="20" selection-end-line="44" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Experiments/Splash Screen.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2125">
@@ -1126,7 +1203,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1445">
           <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1134,22 +1210,44 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.20965692" vertical-offset="1353" max-vertical-offset="2805">
           <caret line="49" column="4" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Experiments/SaveData.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33545107" vertical-offset="0" max-vertical-offset="787">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Labs/Functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1186" max-vertical-offset="1887">
+          <caret line="80" column="16" selection-start-line="80" selection-start-column="16" selection-end-line="80" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Homework/Week3.py">
+    <entry file="file://$PROJECT_DIR$/Homework/Week1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4828">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.53521127" vertical-offset="1958" max-vertical-offset="2739">
+          <caret line="71" column="113" selection-start-line="70" selection-start-column="0" selection-end-line="71" selection-end-column="113" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Labs/QuadraticFormula.py">
+    <entry file="file://$PROJECT_DIR$/Homework/Week4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32872927" vertical-offset="0" max-vertical-offset="527">
-          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="8976">
+          <caret line="115" column="5" selection-start-line="115" selection-start-column="5" selection-end-line="115" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5690377" vertical-offset="0" max-vertical-offset="1275">
+          <caret line="19" column="53" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
           <folding />
         </state>
       </provider>

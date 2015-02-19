@@ -17,7 +17,7 @@ Various experiements I've tried that aren't related to class curriculum.
 Programs created in class.
 
 ### `\Homework\`
-Weekly Homework. The URL to the assignment is useally found at the bottom.
+Weekly Homework. The URL to the assignment is usually found at the bottom.
 
 ### `\Templates\`
 Reusable templates for things like Pygame.
@@ -32,6 +32,13 @@ How to Install
 4. Right click the desired `.py` file and select _"Edit with IDLE"_
 5. Hit F5
 
+Todo
+----
+
+- `Tkinter` Arithmetic Solver
+- Animation Test
+- Pygame Asset Loader
+
 License
 -------
 
@@ -44,12 +51,12 @@ Credits
 	- [Website](https://www.python.org/downloads/release/python-279/)
 - **_Pygame_** ![v1.9.1](http://img.shields.io/badge/version-1.9.1-blue.svg?style=flat)
 	- [Website](http://pygame.org/download.shtml)
-	- A libary used for creating graphics with Python
+	- A library used for creating graphics with Python
 - **_Portable Python_** ![v2.7.6.1](http://img.shields.io/badge/version-2.7.6.1-blue.svg?style=flat)
 	- [Website](http://portablepython.com/wiki/Download/)
 	- Portable version of Python with PyGame bundled.
-- **_PyCharm_** ![Educational Editon v1.0.1](http://img.shields.io/badge/version-Educational_Edition_1.0.1-blue.svg?style=flat)
+- **_PyCharm_** ![Educational Edition v1.0.1](http://img.shields.io/badge/version-Educational_Edition_1.0.1-blue.svg?style=flat)
 	- [Website](https://www.jetbrains.com/pycharm-educational/)
-	- My prefered Python IDE
+	- My preferred Python IDE
 - Badges from [here](http://shields.io/).
 - Progress bars from [here](https://github.com/fehmicansaglam/progressed.io).
