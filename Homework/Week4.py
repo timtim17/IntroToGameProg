@@ -85,7 +85,7 @@ while True:
     if not lastName == "": break
 
 print
-print "Enter your date of birth:"
+print "Please enter a random date:"
 
 # Ask for month between 1 and 12
 while True:
@@ -114,9 +114,7 @@ while True:
     except ValueError: print "Nope, it has to be a year (that's 4 numbers)."
 
 print
-print "%s %s was born on %02d/%02d/%04d" % (firstName, lastName, birthMonth, birthDay, birthYear)
-print
-print "The day of the week was %s." % zeller(birthMonth, birthDay, birthYear, True)
+print "Your name is %s %s.\n\nThe day you chose was %02d/%02d/%04d.\nThe day of the week was %s." % (firstName, lastName, birthMonth, birthDay, birthYear, zeller(birthMonth, birthDay, birthYear, True))
 print
 
-# Homework Assignment: 
+# Homework Assignment: https://github.com/timtim17/IntroToGameProg/raw/master/Homework/Homework%204.docx
