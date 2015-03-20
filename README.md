@@ -1,4 +1,4 @@
-<img src="http://icons.iconarchive.com/icons/cornmanthe3rd/plex/128/Other-python-icon.png" height="25" />Intro to Game Programming ![](http://progressed.io/bar/10?title=class+progress)&nbsp;![](http://img.shields.io/badge/year-freshman-red.svg?style=flat)
+<img src="http://icons.iconarchive.com/icons/cornmanthe3rd/plex/128/Other-python-icon.png" height="25" />Intro to Game Programming ![](http://progressed.io/bar/38?title=class+progress)&nbsp;![](http://img.shields.io/badge/year-freshman-red.svg?style=flat)
 ====
 
 > A repository for the code used in my _Intro to Game Programming_ at **_Eastlake High School_**
