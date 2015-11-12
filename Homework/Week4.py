@@ -17,7 +17,7 @@ def zeller(month, day, year, returnHumanReadable):
         Either a human readable str ("Monday") or an int (1) depending on returnHumanReadable
     """
 
-    # Preform some check on the input to see if it is valid.
+    # Input validation
     if not 1 <= month <= 12:
         print "ERROR: INVALID MONTH (Must be an int between 1 and 12)"
         return None
